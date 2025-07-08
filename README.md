@@ -1,6 +1,11 @@
 <header>
+   
+![Movie_001](https://github.com/user-attachments/assets/9f2297f2-0a73-427e-98ba-21dceaf2b2d7)
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![417098749-ebba7ef2-c7e4-48d9-b83b-ddc9a0a45a64](https://github.com/user-attachments/assets/87f91e32-028b-4491-a45e-1d957b058ead)
+
+
+
 
 # **Dissolve**
 
@@ -11,23 +16,5 @@ _**Colección de shaders de disolución. Ideal para transiciones de aparición y
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
