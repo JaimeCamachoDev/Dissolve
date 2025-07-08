@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dissolve_Area
+  m_Shader: {fileID: -6465566751694194690, guid: c05936d7f6acdcf458f967c95f44b62d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: _Emisivo_Bordes
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 2800000, guid: c9797aa691f16f84286601e51885110f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: 32d358618bb3dd54eb04e7b80473f44f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorAlpha:
+        m_Texture: {fileID: 2800000, guid: 32d358618bb3dd54eb04e7b80473f44f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emisive:
+        m_Texture: {fileID: 2800000, guid: 694e3bfb8c226b546ad61300895b3810, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 32d358618bb3dd54eb04e7b80473f44f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic:
+        m_Texture: {fileID: 2800000, guid: e0fad047f4e7a424d9963cafd602ec01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: d65d4ffbe017f054996a4a90ec38dbcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RMAE:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Roughness:
+        m_Texture: {fileID: 2800000, guid: 1abb7c9d05be07b4ba1d05867f067f7c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Smoothness:
+        m_Texture: {fileID: 2800000, guid: 1abb7c9d05be07b4ba1d05867f067f7c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_95d07f2d31e744f4addaf44cc55ed336_Out_0_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AO_Power: 1
+    - _AlphaClip: 1
+    - _AlphaToMask: 1
+    - _Altura: 0.5
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 0
+    - _Bordes: 3.26
+    - _CastShadows: 0
+    - _ColorEmisive: 1
+    - _Contrast: 10
+    - _Contrast_1: 1
+    - _Cull: 2
+    - _Dissolve: 0.397
+    - _DstBlend: 0
+    - _EdgeSoftness: 0.07
+    - _Emisivo_Bordes: 0
+    - _MetallicPower: 1
+    - _Noise_Scale: 316.91
+    - _Noise_Strenght: -0.1
+    - _Pivote: 1.85
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 0
+    - _RoughnessPower: 1
+    - _SmoothenessPower: 1
+    - _SphereRadius: 0.16
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - _Color: {r: 2, g: 0, b: 0, a: 1}
+    - _Color_Emisive: {r: 1.4980389, g: 0, b: 0.047058728, a: 1}
+    - _SpherePosition: {r: -6.82, g: 0, b: 0, a: 0}
+    - _Vector2: {r: 160, g: -40, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &1789254804602516193
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

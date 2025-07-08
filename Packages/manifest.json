@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "com.jaimecamacho.unityfolders": "1.0.4",
-    "com.unity.render-pipelines.universal": "17.0.4"
+    "com.unity.render-pipelines.universal": "17.0.4",
+    "com.unity.modules.animation": "1.0.0"
   },
   "scopedRegistries": [
     {

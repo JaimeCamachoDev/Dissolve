@@ -685,7 +685,7 @@
     "m_ObjectId": "0c34b0677a42476387f38c2c6d5b2c51",
     "m_Title": "Disolve Height",
     "m_Position": {
-        "x": 1476.9998779296875,
+        "x": 1477.0,
         "y": 876.0
     }
 }
@@ -3306,7 +3306,7 @@
     "m_Title": "Emisive Border Mask",
     "m_Position": {
         "x": 2330.0,
-        "y": 875.9998168945313
+        "y": 876.0
     }
 }
 
