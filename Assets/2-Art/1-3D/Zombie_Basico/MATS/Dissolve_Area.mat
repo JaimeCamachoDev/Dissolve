@@ -20,7 +20,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: _Emisivo_Bordes
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -107,7 +107,7 @@ Material:
     - _ReceiveShadows: 0
     - _RoughnessPower: 1
     - _SmoothenessPower: 1
-    - _SphereRadius: 0.16
+    - _SphereRadius: 0.2
     - _SrcBlend: 1
     - _Surface: 0
     - _WorkflowMode: 1
@@ -117,7 +117,7 @@ Material:
     m_Colors:
     - _Color: {r: 2, g: 0, b: 0, a: 1}
     - _Color_Emisive: {r: 1.4980389, g: 0, b: 0.047058728, a: 1}
-    - _SpherePosition: {r: -6.82, g: 0, b: 0, a: 0}
+    - _SpherePosition: {r: -1, g: -0.5, b: 0, a: 0}
     - _Vector2: {r: 160, g: -40, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
