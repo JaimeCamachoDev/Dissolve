@@ -96,7 +96,3 @@ Assets/
 ## Licencia
 
 Consulta el archivo [LICENSE](LICENSE) para más información.
-
-<footer>
-
-</footer>
