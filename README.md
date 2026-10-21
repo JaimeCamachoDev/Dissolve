@@ -91,6 +91,20 @@ Assets/
 └── 5-Settings/             Configuración de URP
 ```
 
+## Contenido
+
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **CharacterDissolve** | 1 | — | 5 | 5 | — | 1 |
+| **Dissolve** | — | 16 | 2 | 2 | — | 8 |
+| **Flag** | — | 1 | 1 | — | — | — |
+| **Hex** | — | — | 3 | — | 1 | 2 |
+| **Platform** | — | 1 | — | — | — | — |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`
+
 ---
 
 ## Licencia
